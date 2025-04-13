@@ -1,0 +1,12 @@
+{
+    "title": "Masuk ke Akun",
+    "description": "Masuk untuk mengakses akun kamu.",
+    "image_alt": "Gambar login",
+    "email_label": "Email",
+    "email_placeholder": "johndoe@gmail.com",
+    "password_label": "Kata Sandi",
+    "password_placeholder": "password",
+    "submit": "Masuk",
+    "no_account": "Belum punya akun?",
+    "register_here": "Daftar disini"
+  }
